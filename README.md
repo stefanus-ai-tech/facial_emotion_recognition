@@ -244,7 +244,7 @@ finally:
 
 ### Demonstration video
 
-[![Facial Expression Recognition Demonstration](https://img.youtube.com/vi/28W4qCLxPDw/maxresdefault.jpg)](https://www.youtube.com/watch?v=28W4qCLxPDw)
+[![Facial Expression Recognition Demonstration]](https://www.youtube.com/watch?v=28W4qCLxPDw)
 
 
 ---
