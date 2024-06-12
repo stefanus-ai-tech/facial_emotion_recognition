@@ -1,6 +1,10 @@
 # facial_emotion_recognition
 the dataset is from https://www.kaggle.com/datasets/msambare/fer2013?resource=download
 
+### Demonstration
+
+https://github.com/stefanus-ai-tech/facial_emotion_recognition/assets/148773999/8ab50def-0af3-48c1-9ed5-e8ba9b2fd0bd
+
 # Facial Expression Recognition with TensorFlow and Keras
 
 This tutorial will guide you through creating a facial expression recognition system using TensorFlow and Keras. The system will be trained on a dataset of facial images, and it will classify the expressions into seven categories: angry, disgust, fear, happy, neutral, sad, and surprise. Additionally, we will use K-Fold Cross-Validation for training and OpenCV to capture live webcam input for real-time facial expression recognition.
@@ -242,11 +246,7 @@ finally:
         cv2.destroyAllWindows()
 ```
 
-### Demonstration video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/28W4qCLxPDw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[![Facial Expression Recognition Demonstration]](https://www.youtube.com/watch?v=28W4qCLxPDw)
 
 
 ---
