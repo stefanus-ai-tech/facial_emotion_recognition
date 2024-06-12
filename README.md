@@ -244,6 +244,8 @@ finally:
 
 ### Demonstration video
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/28W4qCLxPDw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [![Facial Expression Recognition Demonstration]](https://www.youtube.com/watch?v=28W4qCLxPDw)
 
 
